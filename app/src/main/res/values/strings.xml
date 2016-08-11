@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KungfuApp</string>
+    <string name="yoga">Yogahold</string>
+    <string name="fitness">Motionshold</string>
+    <string name="check_in">Check-in</string>
+    <string name="when">Hvornår?</string>
+    <string name="messages">Meddelelser</string>
+    <string name="video_clips">Videoklip</string>
+    <string name="booking">Booking</string>
+    <string name="front_page">Forside</string>
+
+
+</resources>
